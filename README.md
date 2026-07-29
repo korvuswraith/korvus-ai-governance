@@ -36,7 +36,7 @@ Korvus explores what an enterprise-grade AI governance program should look like 
 
 | Artifact | Description |
 |-----------|-------------|
-| [📊 AI Governance Starter Kit](artifacts/Korvus_AI_Governance_Starter_Kit.xlsx) | Enterprise AI inventory, AI intake form, risk classification model, and governance control library. |
+| [📊 AI Governance Starter Kit](governance/Korvus_AI_Governance_Starter_Kit.xlsx) | Enterprise AI inventory, AI intake form, risk classification model, and governance control library. |
 
 ---
 
