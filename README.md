@@ -8,7 +8,7 @@ Korvus is an open AI governance reference architecture demonstrating how organiz
 
 ## Vision
 
-As AI agents become employees, governance must evolve beyond static policies.
+As AI agents take on increasingly autonomous business functions, governance must evolve beyond static policies.
 
 Korvus explores what an enterprise-grade AI governance program should look like by combining:
 
