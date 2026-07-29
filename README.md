@@ -20,18 +20,32 @@ Korvus explores what an enterprise-grade AI governance program should look like 
 
 ---
 
+
 ## Current Artifacts
 
-| Status | Artifact |
-|----------|------------|
-| ✅ | AI System Inventory |
-| ✅ | AI Use Case Intake |
-| ✅ | AI Risk Classification Standard |
-| ✅ | AI Governance Control Library |
-| 🚧 | AI Impact Assessment |
-| 🚧 | Agent Registry |
-| 🚧 | Vendor Due Diligence |
-| 🚧 | AI Incident Response |
+### Documentation
+
+| Document | Description |
+|-----------|-------------|
+| [🏗️ Architecture](docs/architecture.md) | High-level architecture for the Korvus governance platform. |
+| [🛣️ Roadmap](docs/roadmap.md) | Planned roadmap for Korvus development. |
+
+---
+
+### Governance Artifacts
+
+| Artifact | Description |
+|-----------|-------------|
+| [📊 AI Governance Starter Kit](artifacts/Korvus_AI_Governance_Starter_Kit.xlsx) | Enterprise AI inventory, AI intake form, risk classification model, and governance control library. |
+
+---
+
+### Coming Soon
+
+- AI Impact Assessment
+- Agent Registry
+- Vendor Due Diligence
+- AI Incident Response
 
 ---
 
